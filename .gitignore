@@ -1,0 +1,11 @@
+# Ignore all files by default
+*
+*/
+
+# Track only .ipynb files
+!*.ipynb
+!.gitignore
+!.gitkeep
+
+# Track directories if they contain tracked files
+!*/
