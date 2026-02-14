@@ -1,0 +1,26 @@
+{
+  "Correctness": {
+    "Match Percentage": 49.47089263727086,
+    "Status": "FAIL"
+  },
+  "Strong Scaling (4 Executors)": {
+    "Baseline Time (s)": 274.4073703289032,
+    "Parallel Time (s)": 87.50133061408997,
+    "Speedup": 3.15326412100912,
+    "Efficiency (%)": 78.831603025228,
+    "Time Saved (s)": 186.90603971481323
+  },
+  "Weak Scaling": {
+    "Mean Time (s)": 65.00816194216411,
+    "Time Variation (s)": 38.700278997421265,
+    "Variation (%)": 59.531415504182064
+  },
+  "Optimization": {
+    "Optimal Partitions": 4,
+    "Best Time (s)": 79.5912811756134,
+    "Improvement over Worst (%)": 14.590391230265057
+  },
+  "Overhead": {
+    "Average Overhead (%)": 17.217621156166427
+  }
+}

@@ -7,5 +7,10 @@
 !.gitignore
 !.gitkeep
 !*.md
+!results/metrics/*.*
+!results/plots/*.*
+!*.html
+
+
 # Track directories if they contain tracked files
 !*/
