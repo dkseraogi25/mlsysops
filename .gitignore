@@ -6,6 +6,6 @@
 !*.ipynb
 !.gitignore
 !.gitkeep
-
+!*.md
 # Track directories if they contain tracked files
 !*/
